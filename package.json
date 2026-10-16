@@ -11,7 +11,6 @@
     "typecheck": "tsc --noEmit",
     "ingest": "tsx scripts/ingest.ts",
     "profile": "tsx scripts/profile.ts",
-    "freeze": "tsx scripts/freeze.ts",
     "serve": "tsx server.local.ts",
     "e2e": "tsx scripts/e2e-dmi.ts"
   },

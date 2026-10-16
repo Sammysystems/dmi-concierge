@@ -154,13 +154,6 @@ export type ChatStreamEvent =
   | { type: "sessioned"; session: SessionResultInfo }
   | { type: "done" };
 
-/** A frozen Q→A pair used by the Playwright capture harness (determinism). */
-export interface FrozenPair {
-  question: string;
-  answer: string;
-  source: ChatResponse["source"];
-}
-
 /** One ingested practice: profile + embedded chunks, persisted as a data file. */
 export interface Corpus {
   slug: string;
