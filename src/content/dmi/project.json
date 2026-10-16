@@ -1,0 +1,118 @@
+{
+  "slug": "dmi",
+  "listed": true,
+  "vertical": "studio",
+  "name": "DarlMac Impression",
+  "kind": "Photography studio · Uyo, Lagos & Abuja",
+  "initial": "D",
+  "domain": "dmi.com.ng",
+  "brand": {
+    "primary": "#e40014",
+    "surface": "#0f0f0f",
+    "text": "#f5f5f5",
+    "accent": "#e40014",
+    "bodyFont": "Space Grotesk",
+    "headingFont": "Oswald"
+  },
+  "contact": {
+    "phone": "+234 901 396 2323",
+    "email": "info@dmi.com.ng",
+    "address": "#12 Nwaniba Road, Uyo, Akwa Ibom",
+    "hours": "Mon–Sat 9:00–18:00",
+    "whatsapp": "2349013962323"
+  },
+  "geo": {
+    "city": "Uyo",
+    "state": "Akwa Ibom",
+    "country": "Nigeria",
+    "timezone": "Africa/Lagos",
+    "currency": "NGN",
+    "locale": "en-NG"
+  },
+  "hero": {
+    "image": "/images/dmi/hero-slide-14-C0lfPbQD.jpg",
+    "badge": "Est. 7 years · 300+ projects · 5.0 rated"
+  },
+  "widget": {
+    "title": "DMI Studio Desk",
+    "greeting": "Hi, welcome to DarlMac Impression. Are you booking a session, asking about a package, or looking at the studio or the academy?",
+    "suggestions": [
+      "How much is a portrait session?",
+      "Tell me about your wedding packages",
+      "I want to rent the studio space",
+      "What is the photography academy about?"
+    ]
+  },
+  "booking": "https://dmi.com.ng/booking",
+  "replica": {
+    "hero": "Photography, film and studio space that hold their quality for a lifetime.",
+    "services": [
+      "Portraits indoors and outdoors",
+      "Wedding photography and film",
+      "Videography, reels and trailers",
+      "Events, birthdays and graduations",
+      "Studio space by the half hour",
+      "DMI Photography Academy"
+    ],
+    "about": "DarlMac Impression is a Nigerian photography studio led by Macauley Nseh, working out of Uyo, Lagos and Abuja. Seven years in, more than 300 projects delivered, and a 5.0 rating from our clients.",
+    "tagline": "Photography and film from Uyo, Lagos and Abuja.",
+    "layout": "site",
+    "logo": "/images/dmi/dmi-logo-white-D1sFj5k_.png"
+  },
+  "studio": {
+    "tagline": "Photography, film and studio space in Uyo, Lagos and Abuja.",
+    "founder": {
+      "name": "Macauley Nseh",
+      "role": "Founder & Lead Photographer",
+      "image": "/images/dmi/ceo-portrait-C2Avm9oW.jpg",
+      "bio": "Seven years behind the lens, over 300 projects, and a studio built on one promise: images that still feel right years later."
+    },
+    "services": [
+      { "id": "portraits", "name": "Portraits", "blurb": "Individual, couple and family sessions, indoors or outdoors, across Uyo, Lagos and Abuja." },
+      { "id": "weddings", "name": "Weddings", "blurb": "From court marriage and introduction ceremonies to the full DMI signature experience." },
+      { "id": "videography", "name": "Videography", "blurb": "Trailers, reels and full-length films for weddings, events and brands." },
+      { "id": "events", "name": "Events", "blurb": "Birthdays, graduations, corporate and brand shoots, covered end to end." },
+      { "id": "studios", "name": "Studio Space", "blurb": "Backdrop and content space, rented by the half hour, in our Uyo studio." },
+      { "id": "academy", "name": "DMI Academy", "blurb": "A three-month photography school in Uyo, training the next set of Nigerian photographers." }
+    ],
+    "locations": ["Uyo", "Lagos", "Abuja"],
+    "gallery": [
+      "/images/dmi/DMI_0617-o9Qq-8oO.jpg",
+      "/images/dmi/DMI_0209-DOrQoEgY.jpg",
+      "/images/dmi/portfolio-fashion-D2heOyfa.jpg",
+      "/images/dmi/DMI_3021-DxwuTTlx.jpg",
+      "/images/dmi/portfolio-architecture-B4uJFbrA.jpg",
+      "/images/dmi/DMI_1750-DiaVxWp8.jpg",
+      "/images/dmi/hero-portrait-DxA_sK0K.jpg",
+      "/images/dmi/portfolio-product-Dy12VIyL.jpg",
+      "/images/dmi/blog-20-DdIqLbvP.jpg"
+    ],
+    "testimonials": [
+      { "quote": "Professional, creative, and reliable. An absolute pleasure to work with.", "author": "Karl Hoage", "location": "Dubai", "image": "/images/dmi/hero-slide-14-C0lfPbQD.jpg" },
+      { "quote": "Remarkable team, and unprecedented business success, quickly.", "author": "Fedric Doe", "location": "USA", "image": "/images/dmi/blog-23-Bs03Gh4l.jpg" },
+      { "quote": "Working with DMI was effortless and professional, and the results were stunning.", "author": "Julia Hassey", "location": "Italy", "image": "/images/dmi/hero-portrait-DxA_sK0K.jpg" }
+    ],
+    "academy": {
+      "headline": "DMI Photography Academy",
+      "body": "A hands-on three-month program in Uyo covering camera craft, lighting, editing and the business of photography.",
+      "fee": 200000,
+      "installment": 100000,
+      "schedule": "Mondays, Wednesdays and Fridays · 3 months",
+      "batches": ["Batch A · January to March", "Batch B · May to July", "Batch C · September to November"]
+    },
+    "social": [
+      { "label": "Instagram", "href": "https://www.instagram.com/darlmac_impression/" },
+      { "label": "Facebook", "href": "https://www.facebook.com/DMIstudios/" },
+      { "label": "Weddings IG", "href": "https://www.instagram.com/dmi_weddings/" }
+    ]
+  },
+  "gallery": [
+    "/images/dmi/DMI_0617-o9Qq-8oO.jpg",
+    "/images/dmi/DMI_0209-DOrQoEgY.jpg",
+    "/images/dmi/portfolio-fashion-D2heOyfa.jpg",
+    "/images/dmi/DMI_3021-DxwuTTlx.jpg",
+    "/images/dmi/portfolio-architecture-B4uJFbrA.jpg",
+    "/images/dmi/DMI_1750-DiaVxWp8.jpg"
+  ],
+  "rooms": []
+}

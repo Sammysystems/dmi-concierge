@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.hf-input {
+  width: 100%;
+  border-radius: 0.75rem;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.875rem;
+  outline: none;
+}
+.hf-input:focus {
+  border-color: #183e30;
+  box-shadow: 0 0 0 3px rgba(24, 62, 48, 0.15);
+}
