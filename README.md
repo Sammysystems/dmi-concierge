@@ -131,3 +131,7 @@ The app targets Vercel (`vercel.json`): static `dist/` + the `api/` functions. S
 - **Re-ingest after content edits** — `npm run ingest -- <slug>`. Use `npm run profile -- <slug>` when only the profile changed (skips re-embedding).
 - `src/data/<slug>.json` is committed on purpose: it is the deterministic knowledge base the API serves.
 - `MAIL_OVERRIDE_TO` keeps demos honest — mail is redirected, never faked. Leave it unset in production once a sending domain is verified.
+
+## License
+
+The engine is MIT (see `LICENSE`). The studio's content, rate card and imagery remain the property of DarlMac Impression and are not covered by it.

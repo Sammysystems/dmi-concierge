@@ -13,7 +13,7 @@ Classes run on Mondays, Wednesdays and Fridays.
 - Full payment: 200,000 naira
 - Two installments: 100,000 naira each
 
-Payment is made to FCMB, account number 2008197378.
+Payment details are shared by the studio directly.
 
 ## What the academy asks for
 The application form has five steps: personal details (full name, email, phone, guardian phone, state of origin, date of birth, social handle, and the batch they want), experience level (background, whether they have trained before, and whether they own gear), learning goal, session and payment choice, and terms. There is a guardian phone field, so the academy takes students of school age too.

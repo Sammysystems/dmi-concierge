@@ -210,7 +210,6 @@ export const ACADEMY = {
     { id: "B", window: "May to July" },
     { id: "C", window: "September to November" },
   ],
-  paymentAccount: { bank: "FCMB", number: "2008197378" },
   fullPayment: 200_000,
   partPayment: 100_000,
 };
